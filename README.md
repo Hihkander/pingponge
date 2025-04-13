@@ -1,2 +1,2 @@
 # pingponge
-Ping pong game
+Ping pong game cool
